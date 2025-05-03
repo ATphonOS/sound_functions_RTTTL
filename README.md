@@ -289,7 +289,3 @@ https://adamonsoon.github.io/rtttl-play/
 
 ## 🧾 License
 This project is licensed under the MIT License — see the [LICENSE](https://github.com/ATphonOS/sound_functions/blob/main/LICENSE.md) file for details.
-
-
-
- http://www.arduinoblocks.com/web/help/rtttl
