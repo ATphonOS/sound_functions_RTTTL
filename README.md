@@ -1,6 +1,6 @@
 This documentation is also available in **[Spanish](./README.es.md)**.
 
-# 🔊 sound_functions
+# 🔊 sound_RTTTL
 ## Overview
 `SoundFunctions` is a lightweight C++ library designed for generating tones, alerts, and melodies (including RTTTL format) using a buzzer on Arduino-compatible microcontrollers. It provides non-blocking functions to support concurrent tasks, with features for playing single tones, tone series, beeps, sirens, and melodies with optional repeats. The library is optimized for memory-constrained environments and supports PROGMEM-stored RTTTL melodies.
 
