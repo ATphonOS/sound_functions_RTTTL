@@ -159,12 +159,6 @@ void updateSiren(SirenState& state);
 
 ## 🧪 Example of Use
 
-```cpp
-
-```
-
-## 📤 Program Output Example
-
 1. Plays RTTTL melody in PROGMEM 
 
 ```cpp
