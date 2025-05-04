@@ -317,9 +317,8 @@ Este archivo describe un tono de llamada cuyo nombre es 'Simpsons'. La sección 
 			<duración especial> := "." ; Nota con puntillo
 
 ; Fin de la especificación
-```
 De https://panuworld.net/nuukiaworld/download/nokix/rtttl.htm
-
+```
 https://www.mobilefish.com/tutorials/rtttl/rtttl_quickguide_specification.html
 
 https://1j01.github.io/rtttl.js/#Birdy%20Song
