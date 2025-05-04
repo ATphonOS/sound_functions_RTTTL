@@ -3,7 +3,7 @@
  * @brief Header file for sound generation functions.
  * This file contains functions for generating tones, playing alerts, and RTTTL melodies (including PROGMEM-stored) using a buzzer.
  * Functions are designed to be non-blocking to support concurrent tasks, with support for repeating RTTTL melodies.
- * @author ATphonOS LLC
+ * @author ATphonOS
  * @date 2024
  * MIT license
  */
