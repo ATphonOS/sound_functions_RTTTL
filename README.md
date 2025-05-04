@@ -322,9 +322,8 @@ scale as Octave 5.
 			<special-duration> := "." ; Dotted note
 
 ; End of specification
-```
 From https://panuworld.net/nuukiaworld/download/nokix/rtttl.htm
-
+```
 https://www.mobilefish.com/tutorials/rtttl/rtttl_quickguide_specification.html
 
 https://1j01.github.io/rtttl.js/#Birdy%20Song
