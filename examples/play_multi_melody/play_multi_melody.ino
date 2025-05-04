@@ -19,7 +19,6 @@ void setup() {
 }
 
 void loop() {
-  // Actualiza la melodÃ­a actua
   switch (currentMelody) {
     case PLAY_TWINKLE:
       updateMelody(melodyState1);
