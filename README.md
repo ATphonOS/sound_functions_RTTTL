@@ -205,7 +205,7 @@ void loop() {
 }
 ```
 
-3. Paly several melodies
+3. Play several melodies
 
 ```cpp
 #include "sound_fun_rtttl.h"
