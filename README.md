@@ -431,4 +431,4 @@ https://eddmann.com/nokia-composer-web/
 https://adamonsoon.github.io/rtttl-play/
 
 ## 🧾 License
-This project is licensed under the MIT License — see the [LICENSE](https://github.com/ATphonOS/sound_functions/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/ATphonOS/sound_functions_RTTTL/blob/main/LICENSE) file for details.
